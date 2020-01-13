@@ -8,9 +8,9 @@ namespace ComputerVision
 {
     public static class Credential
     {
-        public static string subscriptionKey = "bba39b5c79d44272bbb4b62d7240e680";
+        public static string subscriptionKey = "<API_KEY>";
 
         public static string uriBase =
-            "https://visionproject.cognitiveservices.azure.com//face/v1.0/detect";
+            "API LINK";
     }
 }
